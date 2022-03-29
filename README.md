@@ -16,13 +16,13 @@ Thank you to Sampson for taking the time to photograph his three different drive
 There are three primary CD-ROM drives in the FM Towns desktop computer.
 
 
-![UX](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/HR.jpg)
+![UX](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/UX.jpg?raw=true)
 
-The MX/MA/ME/Fresh use the center drive infamous for the motor burning out.
+***********************************
 
-![HR](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/HR.jpg)
+![HR](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/HR.jpg?raw=true)
 
 The EA Desktop uses the two speed drive.
 
 
-![EA drive] (https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/EA%20Drive.jpg)
+![EA drive](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/EA%20Drive.jpg)
