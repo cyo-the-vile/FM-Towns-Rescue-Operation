@@ -8,14 +8,21 @@ This repository is a running analysis of the proprietary CD-ROM drive in Fujitsu
 
 Thank you to Sampson for taking the time to photograph his three different drives.
 
-![three drives]
 
-https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/Three%20drives.jpg?raw=true
+![three drives](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/Three%20drives.jpg)
+
+
 
 There are three primary CD-ROM drives in the FM Towns desktop computer.
 
-The UX/UG/UR use the drive on the far left.
+
+![UX](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/HR.jpg)
 
 The MX/MA/ME/Fresh use the center drive infamous for the motor burning out.
 
+![HR](https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/HR.jpg)
+
 The EA Desktop uses the two speed drive.
+
+
+![EA drive] (https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/EA%20Drive.jpg)
