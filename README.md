@@ -8,6 +8,9 @@ This repository is a running analysis of the proprietary CD-ROM drive in Fujitsu
 
 Thank you to Sampson for taking the time to photograph his three different drives.
 
+![three drives]
+
+https://github.com/cyo-the-vile/FM-Towns-Rescue-Operation/blob/main/photos/Three%20drives.jpg?raw=true
 
 There are three primary CD-ROM drives in the FM Towns desktop computer.
 
