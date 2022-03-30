@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "FMT Rescue")(type KiCad)(uri "C:/Users/cyoke/Documents/kicad/FM Towns Rescue Project/FMT Rescue")(options "")(descr ""))
+  (lib (name "FM Towns Rescue Project")(type KiCad)(uri "C:/Users/cyoke/Documents/kicad/FM Towns Rescue Project")(options "")(descr ""))
+)
