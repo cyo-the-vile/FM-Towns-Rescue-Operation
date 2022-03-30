@@ -1,6 +1,6 @@
 # Breakout Board
 
-The intention of the breakout board is to study and analyze the CD-ROM drive communication protocols used between CD-ROM drive and FMT computer.
+The intention of the breakout board is to study and analyze the CD-ROM drive communication protocols used between CD-ROM drive and FMT computer. Kicad files for editing are also in the repository.
 
 Most Desktop drives used a 64 Pin ASIC or custom microcontroller. This in all essence is a black box with no real pinout easily identifiable.
 
